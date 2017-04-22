@@ -1,5 +1,7 @@
 # Unity-Project-Template
-A Default Project Template that I've created to use on my own projects. Feel free to use, share and implement your own changes.
+A Default Project Template that I've adapted from [Nidre](https://github.com/Nidre). Take it and go mental.
+
+Added some helpers from [Mike Cann](https://github.com/mikecann/Unity-Helpers) and some creative coding tools adapted from [Keijiro](https://github.com/keijiro/Klak). 
 
 Some of the code in this project might be taken from sources such as Stack-Overflow. If anyone feels they need to be mentioned in this project, I would be happy to add their information here.
 
