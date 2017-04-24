@@ -1,7 +1,14 @@
-# Unity-Project-Template
-A Default Project Template that I've adapted from [Nidre](https://github.com/Nidre). Take it and go mental.
+# Unity VR Project Template
+SteamVR Boiler plate project, template adapted from [Nidre](https://github.com/Nidre). Take it and go mental.
 
-Added some helpers from [Mike Cann](https://github.com/mikecann/Unity-Helpers) and some creative coding tools adapted from [Keijiro](https://github.com/keijiro/Klak). 
+VR related assets
+- [NewtonVR](https://github.com/TomorrowTodayLabs/NewtonVR)
+- [VRTK](https://github.com/thestonefox/VRTK)
+- StandardAssets FPS controller and utilities
+
+Added some helpers 
+- [Mike Cann](https://github.com/mikecann/Unity-Helpers) tools
+- Creative coding tools Klak adapted from [Keijiro](https://github.com/keijiro/Klak). 
 
 Some of the code in this project might be taken from sources such as Stack-Overflow. If anyone feels they need to be mentioned in this project, I would be happy to add their information here.
 
