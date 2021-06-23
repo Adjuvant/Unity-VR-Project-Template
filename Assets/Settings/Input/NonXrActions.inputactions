@@ -1,0 +1,22 @@
+{
+    "name": "KeyboardActions",
+    "maps": [],
+    "controlSchemes": [
+        {
+            "name": "Non-XR Inputs",
+            "bindingGroup": "Non-XR Inputs",
+            "devices": [
+                {
+                    "devicePath": "<Keyboard>",
+                    "isOptional": false,
+                    "isOR": false
+                },
+                {
+                    "devicePath": "<Mouse>",
+                    "isOptional": false,
+                    "isOR": false
+                }
+            ]
+        }
+    ]
+}
